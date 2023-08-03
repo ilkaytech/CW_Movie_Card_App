@@ -7,6 +7,7 @@ import { data } from "../helpers/data";
 
 const ContainerCard = () => {
   const [search, setSearch] = useState("");
+  console.log(data);
 
   const handleChange = (e) => {
     console.log(e.target.value);
@@ -14,6 +15,11 @@ const ContainerCard = () => {
     // console.log(search);
   };
   console.log(search);
+
+  const filteredData = data.filter((item) =>
+    item.name.toLowerCase().includes(search.trim().toLowerCase())
+  );
+  console.log(filteredData);
 
   return (
     <>
