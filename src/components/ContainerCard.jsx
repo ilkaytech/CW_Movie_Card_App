@@ -3,13 +3,17 @@ import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import { data } from "../helpers/data";
 
 const ContainerCard = () => {
   const [search, setSearch] = useState("");
 
   const handleChange = (e) => {
     console.log(e.target.value);
+    setSearch(e.target.value);
+    // console.log(search);
   };
+  console.log(search);
 
   return (
     <>
