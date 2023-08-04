@@ -1,6 +1,6 @@
 export const data = [
   {
-    name: "Kareem Abdul-Jabbar",
+    name: "Extraction 2",
     img: "https://www.sinefil.com/cdn-a1-p/movie/0017/81/8cc8be0377b24bea79c0fdc0309264b3f2aa67f1.jpeg",
     statistics: [
       "38,387 points",
