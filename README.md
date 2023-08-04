@@ -7,9 +7,9 @@ Project aims to create a movie Cards App.
 ## Project Skeleton
 
 ```
-Filmax App (folder)
+Movie Card App (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         # Definition of the project
 SOLUTION
 ├── public
 │     └── index.html
@@ -41,7 +41,7 @@ SOLUTION
 
 Creating a movie card Application using ReactJS
 
-### The following topics will be covered in the project;
+### The following issues were discussed in the project;
 
 - HTML
 
