@@ -1,4 +1,4 @@
-# Project: Filmax App
+# Project: Movie Card App
 
 ## Description
 
@@ -31,11 +31,11 @@ SOLUTION
 
 ## Outcome
 
-🔗 [Filmax App](https://filmax-app.netlify.app)
+🔗 [Movie Card App](https://filmax-app.netlify.app)
 
 <br>
 
-![Filmax App](Filmax.gif)
+![Movie Card App](MovieCardApp.gif)
 
 ## Objective
 
@@ -53,4 +53,4 @@ Creating a movie card Application using ReactJS
 
 ## Resources
 
-- [Images](../assets)
+- [Images](../assets/)
