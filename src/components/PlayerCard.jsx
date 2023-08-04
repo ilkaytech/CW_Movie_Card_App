@@ -16,7 +16,7 @@ const PlayerCard = ({ name, img, statistics }) => {
           <Card.Img
             variant="top"
             src={img}
-            height="250pxpx"
+            height="450pxpx"
             // onClick={() => setShowImage(false)}
           />
         ) : (
@@ -26,7 +26,7 @@ const PlayerCard = ({ name, img, statistics }) => {
           >
             {statistics.map((item, i) => (
               <li className="list-unstyled h5 text-start" key={i}>
-                🏀{item}{" "}
+                🎬 {item}{" "}
               </li>
             ))}
           </ul>
