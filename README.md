@@ -31,7 +31,7 @@ SOLUTION
 
 ## Outcome
 
-🔗 [Filmax App](https://cw-google-landing-page.netlify.app)
+🔗 [Filmax App](https://filmax-app.netlify.app)
 
 <br>
 
