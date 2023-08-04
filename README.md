@@ -35,7 +35,7 @@ SOLUTION
 
 <br>
 
-![Movie Card App](MovieCardApp.gif)
+![Movie Card App](./filmax.png)
 
 ## Objective
 
