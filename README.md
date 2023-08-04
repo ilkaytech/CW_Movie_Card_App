@@ -31,7 +31,7 @@ SOLUTION
 
 ## Outcome
 
-🔗 [Movie Card App](https://filmax-app.netlify.app)
+🔗 [Movie Card App](https://cw-movie-card.netlify.app)
 
 <br>
 
