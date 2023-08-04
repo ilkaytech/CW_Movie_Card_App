@@ -30,7 +30,7 @@ const ContainerCard = () => {
         onChange={handleChange}
       />
       <Container className="p-3 rounded-4 card-container my-3">
-        <Row xs={1} md={3} lg={3} xl={4} className="justify-content-center g-3">
+        <Row xs={1} md={2} lg={3} xl={4} className="justify-content-center g-3">
           {filteredData.map((player, i) => (
             <PlayerCard key={i} {...player} />
           ))}
