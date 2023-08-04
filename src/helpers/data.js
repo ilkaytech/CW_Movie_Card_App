@@ -1,7 +1,7 @@
 export const data = [
   {
     name: "Kareem Abdul-Jabbar",
-    img: "https://s22928.pcdn.co/wp-content/uploads/2018/03/Kareem-Abdul-Jabbar.jpg",
+    img: "https://www.sinefil.com/cdn-a1-p/movie/0017/81/8cc8be0377b24bea79c0fdc0309264b3f2aa67f1.jpeg",
     statistics: [
       "38,387 points",
       "17,440 rebaunds",
